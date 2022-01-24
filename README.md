@@ -1,7 +1,6 @@
 - 👋   Hi, I’m @Scott-Sutherland-92
-- 👀   I’m interested in ...
+- 👀   I’m interested in all things design & development.
 - 🌱   I’m currently learning Python / Docker
-- 💞️   I’m looking to collaborate on ...
 - 📫   Reach me at hello@scottsutherland.co.uk
 
 <!---
